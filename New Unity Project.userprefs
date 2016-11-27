@@ -1,11 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\tableHighlight.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cup.cs">
     <Files>
-      <File FileName="Assets\spinOnGaze.cs" Line="1" Column="1" />
-      <File FileName="Assets\gazemove.cs" Line="1" Column="1" />
-      <File FileName="Assets\tableHighlight.cs" Line="81" Column="77" />
-      <File FileName="Assets\ArduinoSend.cs" Line="34" Column="2" />
+      <File FileName="Assets\tableHighlight.cs" Line="58" Column="22" />
+      <File FileName="Assets\cup.cs" Line="44" Column="19" />
+      <File FileName="Assets\ArduinoSend.cs" Line="15" Column="15" />
+      <File FileName="Assets\Tobii\EyeTrackingFramework\Components\GazeAware.cs" Line="44" Column="9" />
+      <File FileName="Assets\DemoController.cs" Line="36" Column="28" />
+      <File FileName="Assets\hidethis.cs" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -111,6 +111,7 @@
      <Compile Include="Assets\Tobii\Plugins\SimpleJSON.cs" />
      <Compile Include="Assets\cup.cs" />
      <Compile Include="Assets\gazemove.cs" />
+     <Compile Include="Assets\hidethis.cs" />
      <Compile Include="Assets\spinOnGaze.cs" />
      <Compile Include="Assets\tableHighlight.cs" />
      <None Include="Assets\Tobii\Plugins\x86_64\Tobii.EyeX.Client.Net20.xml" />
